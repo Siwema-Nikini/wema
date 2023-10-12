@@ -28,7 +28,7 @@ class App extends Component{
   render(){
     return(
       <div>
-        <p>Hello my name is {this.state.name.firstName} and I'am {this.state.age} years old</p>
+        <p>MONSTER RELOADER my name is {this.state.name.firstName} and I'am {this.state.age} years old</p>
         <h1>{this.state.monster1.name}</h1>
         <h1>{this.state.monster2.name}</h1>
         <h1>{this.state.monster3.name}</h1>
